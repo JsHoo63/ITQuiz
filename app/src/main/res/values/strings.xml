@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">IT Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Well Done!</string>
+    <string name="incorrect_toast">Incorrect answer.</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="question_one">1. #define is known as preprocessor compiler directive.</string>
+    <string name="question_two">2. The ++ operator increments the operand by 1, whereas, the -- operator decrements it by 1.</string>
+    <string name="question_three">3. Only character or integer can be used in switch statement.</string>
+    <string name="question_four">4. A zero value is considered to be false and a non-zero value is considered to be true.</string>
+    <string name="question_five">5. Blank spaces may be inserted between two words to improve the readability of the statement.</string>
+    <string name="question_six">6. The keywords cannot be used as variable names.</string>
+    <string name="question_seven">7. Switch statement can have any number of case instances.</string>
+    <string name="question_eight">8. Two case constants within the same switch statement can have the same value.</string>
+    <string name="question_nine">9. A do-while loop is used to ensure that the statements within the loop are executed at least twice..</string>
+    <string name="question_ten">10. = is used for comparison, whereas, == is used for assignment of two quantities.</string>
+
+    <string name="question1_one">1. In an instance method or a constructor, "this" is a reference to the current object.</string>
+    <string name="question1_two">2. Garbage Collection is manual process.</string>
+    <string name="question1_three">3. The JRE deletes objects when it determines that they are no longer being used. This process is called Garbage Collection.</string>
+    <string name="question1_four">4. Constructor overloading is not possible in Java.</string>
+    <string name="question1_five">5. Assignment operator is evaluated Left to Right.</string>
+    <string name="question1_six">6. All binary operators except for the assignment operators are evaluated from Left to Right.</string>
+    <string name="question1_seven">7. Java programming is not statically-typed, means all variables should not first be declared before they can be used.</string>
+    <string name="question1_eight">8. In Java SE 7 and later, underscore characters "_" can appear anywhere between digits in a numerical literal</string>
+    <string name="question1_nine">9. Variable name can begin with a letter, "$", or "_".</string>
+    <string name="question1_ten">10. Interfaces can be instantiated.</string>
+
+    <string name="question2_one">1. It is not possible to achieve inheritance of structures in c++?</string>
+    <string name="question2_two">2. Super classes are also called Parent classes/Base classes.</string>
+    <string name="question2_three">3. Sub classes may also be called Child classes/Derived classes.</string>
+    <string name="question2_four">4. The cin input statement is used to receive data from keyboard.</string>
+    <string name="question2_five">5. The cout output statement is used to print text on the screen.</string>
+    <string name="question2_six">6. Each C++ program may have many main function.</string>
+    <string name="question2_seven">7. A comment in C++ langauge starts with */ and ends with /* </string>
+    <string name="question2_eight">8. Programmers use a variety of special languages, called programming languages, to communicate with the computer.</string>
+    <string name="question2_nine">9.  The assembly languages represent the only way to communicate directly with the computer.</string>
+    <string name="question2_ten">10. When writing a procedure-oriented program, the programmer concentrates on the major tasks that the program needs to perform.</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="show_back_button">Back</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong. No marks will be given.</string>
+</resources>
